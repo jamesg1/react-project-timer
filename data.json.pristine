@@ -1,0 +1,16 @@
+[
+    {
+        "title": "JS Study Timer",
+        "project": "Javascript",
+        "id": "50646551-4e3b-41de-a0e6-c1f6239abf70",
+        "elapsed": 1500,
+        "runningSince": null
+    },
+    {
+        "title": "Node Study Timer",
+        "project": "Node",
+        "id": "1360e282-985b-414a-8cf0-5499a5806393",
+        "elapsed": 2000,
+        "runningSince": null
+    }
+]
